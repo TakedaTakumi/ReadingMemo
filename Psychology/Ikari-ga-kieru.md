@@ -4,6 +4,14 @@
 >安藤 俊介
 >https://www.amazon.co.jp/dp/4799323598/
 
+<details>
+<summary>目次</summary>
+
+- はじめに
+- プロローグ
+- 第１章　とっさの怒りを切り抜ける7つの対処療法
+	
+</details>
 
 ## 雑感
 
